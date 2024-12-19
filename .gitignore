@@ -19,3 +19,4 @@ dist/
 
 # その他
 *.log
+.python-version
