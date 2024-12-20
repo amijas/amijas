@@ -13,13 +13,7 @@
 - 当直回数の均等化
 
 ## インストール方法
-
-### 方法1: 実行可能ファイルをダウンロード
 1. [Releases](https://github.com/amijas/amijas/releases) ページから最新版の `timetable_app_macos_arm64.zip` をダウンロード
 2. zipファイルを解凍
 3. `timetable_app.app` をApplicationsフォルダにドラッグ＆ドロップ
 
-### 方法2: ソースコードから実行
-
-## 必要なライブラリ 
->>>>>>> 8ce6d98 ("Update README with installation instructions and features")
